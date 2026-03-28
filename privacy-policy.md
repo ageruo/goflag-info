@@ -2,8 +2,6 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 **Last updated:** March 27, 2026
 
 GoFlag ("the App") respects your privacy. This Privacy Policy explains how the App handles user data.
