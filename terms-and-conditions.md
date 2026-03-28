@@ -2,8 +2,6 @@
 title: Terms & Conditions
 ---
 
-# Terms & Conditions
-
 **Last updated:** March 27, 2026
 
 By downloading or using GoFlag ("the App"), you agree to these terms.
