@@ -1,3 +1,7 @@
+  ---
+  title: Terms & Conditions
+  ---
+  
 # Terms & Conditions
 
 **Last updated:** March 27, 2026
